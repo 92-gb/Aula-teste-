@@ -1,6 +1,7 @@
 #  projeto exibição de jogos 
 
-> Status do projeto : Em desenvolvimento pelos alunos do IFRO 
+> Status do projeto : Em desenvolvimento pelos alunos do IFRO
+ 
 para rodar este projeto em seu computadoe , é  precisa instalar e configurar o Boostrap
 
 ### Instalar  via  gerenciador de pacotes 
